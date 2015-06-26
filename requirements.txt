@@ -1,3 +1,4 @@
-The following Julia modules are required:
-
+Julia 0.4
 StatsBase
+
+If you have a huge array to find coreset on, use a Julia mmap array. The algorithm works on memorymapped arrays.
