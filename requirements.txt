@@ -1,0 +1,3 @@
+The following Julia modules are required:
+
+StatsBase
